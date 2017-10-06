@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{18E96A13-D497-4684-8A0B-DB204F7A65A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadDataFromJson/DynamicScreen.xaml.cs">
+    <Files>
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" Line="29" Column="1" />
+      <File FileName="ReadDataFromJson/getbannerdata.json" Line="1" Column="1" />
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml" Line="22" Column="15" />
+      <File FileName="ReadDataFromJson/DynamicScreen.xaml" Line="20" Column="15" />
+      <File FileName="ReadDataFromJson/DynamicScreen.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJsonDynamicUI/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="40" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJsonDynamicUI/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="20" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJsonDynamicUI/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="94" column="78" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadDataFromJson.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Droid/ReadDataFromJson.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
